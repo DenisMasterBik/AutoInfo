@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoInfo</string>
+    <string name="history">История завода</string>
+    <string name="cars_model">Модели машин</string>
+    <string name="bus_model">Модели автобусов</string>
+    <string name="version">Версия</string>
+    <string name="exit">Выход</string>
+</resources>
